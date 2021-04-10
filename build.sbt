@@ -1,4 +1,4 @@
-name := "Scala"
+name := """cqrs-command4ac"""
 
 version := "0.1"
 
